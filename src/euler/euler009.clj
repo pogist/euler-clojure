@@ -1,7 +1,8 @@
 (ns euler.euler009)
 
-(defn find-triplets [expected-sum]
+(defn find-triplets
   "Finds the pythagorean triplets that match the given sum"
+  [expected-sum]
   (for [a (range 1 expected-sum)
         b (range a expected-sum)
         :let [c (Math/sqrt (+ (* a a) (* b b)))]
