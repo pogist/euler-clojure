@@ -1,6 +1,6 @@
 ## euler-clojure
 
-Humble attempt at solving the first 100 [euler's problems](https://projecteuler.net/) in Clojure. (I'm ridiculously lazy so it might take a while 😅)
+Humble attempt at solving the first 100 [euler's problems](https://projecteuler.net/) in Clojure. (I'm ridiculously lazy and dumb so it'll take a while 😅)
 
 #### Testing solutions
 
